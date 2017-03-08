@@ -11,6 +11,10 @@ Käyttääksesi Noppawarea kloonaa github repositorio seuraavalla komennolla:
 
 ```git clone git://github.com/akiutoslahti/Noppaware.git```
 
+Kun olet siirtynyt Noppaware kansioon, voit luoda turvallisia salalauseita komennolla:
+
+```java Noppaware```
+
 Tulostaaksesi sovelluksen 'apua' tiedot käytä komentoa:
 
 ```java Noppaware apua```
