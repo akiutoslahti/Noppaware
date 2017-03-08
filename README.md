@@ -3,7 +3,7 @@
 Noppaware on turvallinen salalausegeneraattori, joka hyödyntää Kai Puolamäen GNU GPL -lisenssin alla julkaisemaa sanalistaa (http://users.ics.aalto.fi/kaip/noppaware/).
 Noppaware käyttää Javan SecureRandom luokkaa sanojen valinnassa sanalistasta (https://docs.oracle.com/javase/8/docs/api/java/security/SecureRandom.html).
 
-Javan SecureRandom luokka on kryptografisesti vahva satunnaislukugeneraattori. Tässä sovelluksessa se käyttää Linux järjestelmän /dev/urandom tuottamaan satunnaista bittivirtaa.
+Javan SecureRandom luokka on kryptografisesti vahva satunnaislukugeneraattori, joka Linux järjestelmässä käyttää /dev/urandom tuottamaa satunnaista bittivirtaa.
 
 # Käyttö
 
